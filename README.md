@@ -2,14 +2,15 @@
 
 <br>
 
-🔒 About Me:
+
+## 🔒 About Me:
 
 An security solutions professional with extensive experience in F5 BIG-IP (ASM, LTM, DNS) and F5 BIG-IQ deployments, as well as leading NGINX Plus implementations to enhance system performance and security. My expertise lies in containerization, microservices architecture, and leveraging cloud platforms like AWS and Azure to build resilient, secure systems.
 
 <br>
 <br>
 
-# 💡 What I Do:
+## 💡 What I Do:
 
 - **Application & Network Security**A: Conduct security assessments of applications, identify vulnerabilities, and propose effective mitigation strategies.
 
@@ -24,7 +25,7 @@ An security solutions professional with extensive experience in F5 BIG-IP (ASM, 
 <br>
 <br>
 
-# 🛠 Skills & Technology:
+## 🛠 Skills & Technology:
 
 - **Tools & Technology**:  F5 BIG-IP (ASM, DNS, LTM), NGINX+, K8s, Docker, Burpsuite, Nmap, Nuclei, Packet Analysis, Windows IIS
 server, CCNA (Routing & Switching)
