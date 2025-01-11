@@ -1,4 +1,4 @@
-# 🌐 Security Solutions Professional | Cloud & Automation Enthusiast | Cybersecurity Innovator
+# 🌐 Security Solutions Professional | Cloud & Automation Enthusiast
 
 <br>
 
@@ -26,7 +26,8 @@ An security solutions professional with extensive experience in F5 BIG-IP (ASM, 
 
 # 🛠 Skills & Technology:
 
-- **Tools**: F5 BIG-IP (ASM, DNS, LTM & APM), NGINX+, Kubernetes, Docker, Packet Analysis, Windows IIS Server.
+- **Tools & Technology**:  F5 BIG-IP (ASM, DNS, LTM), NGINX+, K8s, Docker, Burpsuite, Nmap, Nuclei, Packet Analysis, Windows IIS
+server, CCNA (Routing & Switching)
 - **Programming**: Python, Java, Bash.
 - **Monitoring**: Grafana, Prometheus, Wazuh, Zabbix, ELK Stack
 - **Security Frameworks**: NIST CSF, PCI DSS.
@@ -35,7 +36,6 @@ An security solutions professional with extensive experience in F5 BIG-IP (ASM, 
 
 <br>
 
-🌟 Constantly learning and exploring new technologies, with a passion for automation and using ML/AI to solve cybersecurity challenges. 
-<br>
+🌟 Constantly learning and exploring new technologies, with a passion for automation and using ML/AI to solve cybersecurity challenges. <br>
 
 Let's connect and innovate together!
